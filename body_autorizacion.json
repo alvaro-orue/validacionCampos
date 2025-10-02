@@ -1,0 +1,85 @@
+{
+    "Action": "pay",
+    "merchantCode": "4007611",
+    "FacilitatorCode": "6666042",
+    "Order": {
+        "OrderNumber": "AOQ20250930780",
+        "Currency": "PEN",
+        "Amount": "KUlLYfuKShl/yU0EJk2DrgNchnbpdjdqo28WdsY1ycB4FkO3+QUzTqtYVHTLgVAv5vKB8dLWMxU9mRb6QrFtz2DDm9FIVIq+bUrU1UI3EnNgoflfrb/PemxFvCdSGOTABymFrTAyhyoCTlbSOdhI2vsOZheICf6tgHop5xNMabU7tyhkh8JQORuOI6zPcipQD29wU0KpY6sBPvzbL3X39ZBs4iC30PVBy2LbwPVceg605H0PCqJuFYvuBE6yob5viJa5B3YYge/LOLoHbN2ou++K9mYIeH8chaAusUFKZTBqwXZ29gZkK8SqNBEu5AzHMrirh/S8V+PJB8sqfqFJlw==",
+        "Installments": "01",
+        "Deferred": null,
+        "PayMethod": "card",
+        "Channel": "ecommerce",
+        "ProcessType": "preautorize",
+        "DatetimeTerminalTransaction": "2025-10-02 23:59:52.420",
+        "MerchantBuyerId": null
+    },
+    "Card": {
+        "Brand": "VS",
+        "Pan": "LNFNBghwVsRTHDEWOrxLsuZJBRXQwha200trRj2A/kp0CyNQ8QScfE+h45fTI7JCj+aL6NKrnF1Kj9QKgtxP7rB6Op2Uyd/wMt1L4nEC1+9H19V2EbPf0M+Luutbgxm6HdazsKCfTBwMN/KADIKry193DyqV7Lpl4HQBIlKDTfYTHIfX5xH/9lE7YXPJ2UYxXJLm4FIZXF0+1vcy84EVWOpZyue0YaUlHBCqR5KHrwUQAwbY+yy9NPBiijUhnyHzukMYX606n+/UZMEDnd7Dq2u7rl9WnTnP7J2PHyLVvMgCoJv/BEZTsR7iXeqdFrbdRMCrgQ9qkCOOaQOSNf2zjg==",
+        "ExpirationMonth": "WCTZRDW1AqNHzzEu9Fa3VepxLqGvPHKS8wqsTbcD1lzIioZaSY8RndiQ+cQELOpLA+3X1YT8rNRPsR4aySrsmKP/DsCOty4mrxEod9tOmSi+UOOFSeEhFSxQj0hysv+mWaNego2LdpguJm20tth9JHYuTZkKqleSZhlSbGuVfwPhot2rMCaakqDgA2kcx+zVyviBCojHooDwjJCANAmFzIBCsFFKo+87+e2kxdrDpj5+Q6IMipDgytWr4BmMwbPIbSOD49RNt3Y6BRmytqY4TuazK/OFN323qaq4fa5+y96WleHsi25pbLBXDgkFNVgCjEd4DLInky7Gyzu8T9BGwA==",
+        "ExpirationYear": "dkzAFqK+RcCpocgu+E/F19y0OnofZGmQvT3pmiPyF6mTLUVzfQmqLpFP/5kik6d92VuvhkBrrlbjuO0XnY8kV5rRThFSl6Q0BGEFs1ZY0TfAdatCQzoNJFczKnA82pGQS03zuidamBODLj6KbYyNjF8v5Su1ef6cs+4dQUfJM0imTar8fE3Sf2WM56axEG6blWnuC3Rnyqi1oNEGR3KukzTHlwk5Pk5WWb+d3UUxzczVCjXwqeBiMs5fmGflQv6d8cxDKYwqE29BlM93NOs6lz6RaiITqIMcvTG9IK9pl7eNealRsF5CPWsONMW1k8g6YnuNRMi9M87NjRprRwMrcw==",
+        "Cvc": "ExSkFPP562olJNbGD/aeUdzKLpWSRmc6K7wDECPmX2nY6eOy0Wjf9FPcpWlxT1UZB8DKzj0todbkskMs6QCmOtew2ywM5IeewFB8/rNKFHwh7Zdf1MG/R1zz9ENGaa86NLv6UGC/WMBx+rpyZB/STeZNtGJcDc2q7YVXoC8YwsosnS5eKutmDXw0504tLFEK8XxK/XrTFuc9Qmc//Qtv3UtR4U4MeCYjR04cmvcYnukyG4O0/0tLrVXnYxrNwmTemxKKNMN0PLUHtzsTaXvkCn0OVlQcTqAtMj4JX77BIbQDjFTqSTjNVrGxkdxMJzmHiKMPhOkfzvCnK5CJV3LhSQ==",
+        "CvcPresent": "SI"
+    },
+    "Token": {
+        "CardToken": "",
+        "BuyerToken": "",
+        "Cryptogram": "",
+        "ExpirationMonthToken": "",
+        "ExpirationYearToken": "",
+        "Network": null,
+        "Cvc": null,
+        "RequestorId": null,
+        "AssuranceMethod": null,
+        "MitTransactionId": null,
+        "CardNumberSuffix": null,
+        "Brand": null,
+        "CardType": null,
+        "FirstTransaction": false,
+        "Wallet": null
+    },
+    "Billing": {
+        "FirstName": "Juan",
+        "LastName": "Doe",
+        "Email": "izipay@example.com",
+        "PhoneNumber": "11999999999",
+        "Street": "Av Repblica de Panam 3414 ",
+        "PostalCode": "15036",
+        "City": "San Isidro",
+        "State": "Lima",
+        "Country": "PE",
+        "DocumentType": "DNI",
+        "Document": "35834219",
+        "CompanyName": null
+    },
+    "Shipping": {
+        "FirstName": "",
+        "LastName": "",
+        "Email": "",
+        "PhoneNumber": "",
+        "Street": "",
+        "PostalCode": "",
+        "City": "",
+        "State": "",
+        "Country": ""
+    },
+    "Antifraud": {
+        "ClientIp": "127.0.0.1",
+        "DeviceFingerPrintId": null,
+        "UserScoring": "izipay_low"
+    },
+    "Authentication": {
+        "Auth3dsSli": "",
+        "Auth3dsUcafIndicator": "",
+        "Auth3dsStatus": "",
+        "Auth3DSAAV": "",
+        "Auth3dsSecureIndicator": "",
+        "Auth3dsTransactionId": "",
+        "Auth3dsXid": ""
+    },
+
+    "Language": "ESP",
+    "UrlIpn": "https://testapi-pw.izipay.pe/ipnclient/NotificationPublic/requests",
+    "CustomFields": []
+}
